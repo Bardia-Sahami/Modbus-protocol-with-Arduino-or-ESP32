@@ -1,4 +1,4 @@
-# Communication between three ESP32/Arduino boards using Modebus Protocol
+# Communication between three ESP32/Arduino boards using Modbus Protocol
 
 </br>
 
